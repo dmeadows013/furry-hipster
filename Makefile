@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 0
 SUBLEVEL = 42
-EXTRAVERSION =
+EXTRAVERSION = .42-uberkernel-dmeadows013-vigorb1
 NAME = Sneaky Weasel
 
 # *DOCUMENTATION*
